@@ -1,4 +1,6 @@
-# Notebook 1: Nonlinear prediction of chaotic dynamical systems
+# Prediction of chaotic dynamical systems and Convergent Cross Mapping
+
+### Notebook 1: Nonlinear prediction of chaotic dynamical systems
 
 The method proposed by Sugihara and May (Nature, 1990) entails first choosing an embedding dimension, $n$, and then predicting $y_t$ by using past observations $\vec y_p(t) = (y_{t-1}, y_{t-2}, \dots, y_{t-n}) \in \mathbb{R}^n$. 
 
